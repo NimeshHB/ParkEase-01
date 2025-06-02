@@ -1,22 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "backend",
-  "version": "1.0.0",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^5.1.0",
-    "mongoose": "^8.15.1",
-    "nodemon": "^3.1.10"
-  }
-}
-=======
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
@@ -86,4 +68,20 @@
     "typescript": "^5.8.3"
   }
 }
->>>>>>> bcb82c4 (first commit)
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "nodemon": "^3.1.10"
+  }
+}
