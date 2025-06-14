@@ -4,7 +4,7 @@ const UserController = require("../Controllers/UserControllers");
 
 // Example route for getting all users
 router.get("/", UserController.getAllUsers);
-router.post("/", UserController.addUsers);
+router.post("/", UserController.addUser);
 
 // export the router
 module.exports = router;
