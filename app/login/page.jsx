@@ -108,7 +108,7 @@ export default function Login() {
             <Link href="/register" className="text-emerald-600 hover:text-emerald-500 font-medium">
               Sign up
             </Link>
-          </p>
+          </p> 
         </CardFooter>
       </Card>
     </div>
